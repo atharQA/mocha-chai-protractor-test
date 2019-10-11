@@ -1,0 +1,16 @@
+{
+  "name": "athar_qa_automation",
+  "version": "1.0.0",
+  "description": "learn mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "athar",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "protractor": "^5.4.2"
+  }
+}
